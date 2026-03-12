@@ -1,2 +1,2 @@
 # infrastructure
-tools for configuring systems and applications
+tools for managing systems and applications
